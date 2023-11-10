@@ -1,0 +1,28 @@
+{
+  "name": "node_lern",
+  "version": "1.0.0",
+  "description": "lerning node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daskendrik/learning_node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Daria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daskendrik/learning_node/issues"
+  },
+  "homepage": "https://github.com/Daskendrik/learning_node#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
